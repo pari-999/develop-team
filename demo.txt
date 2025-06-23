@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 reote file demo
+=======
+local file demo
+>>>>>>> 7fad549 (demo file lr add)
