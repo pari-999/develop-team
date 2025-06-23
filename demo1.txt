@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lr file
+=======
+rm file
+>>>>>>> 5baa28f0fbf207f5b9729785b81ac2cc3cc568be
